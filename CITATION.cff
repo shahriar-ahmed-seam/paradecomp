@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use ParaDecomp in your research, please cite it as below."
+title: "ParaDecomp: High-Breadth Parallel Subtask Decomposition and Elastic Scatter-Gather Concurrency Engine for Autonomous Agents"
+authors:
+  - family-names: "Ahmed"
+    given-names: "Shahriar"
+    email: "shahriarseam17@gmail.com"
+version: 0.1.0
+date-released: 2026-10-10
+license: Apache-2.0
+repository-code: "https://github.com/shahriar-ahmed-seam/paradecomp"
+keywords:
+  - multi-agent
+  - parallel-decomposition
+  - scatter-gather
+  - deep-research
+  - llm-orchestration
